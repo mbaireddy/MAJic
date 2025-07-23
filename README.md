@@ -1,2 +1,2 @@
-#We're Team MAJic!
+# We're Team MAJic!
 🙈 hi
