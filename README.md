@@ -10,7 +10,7 @@ synopsis of rules
 
 # About our project
 
-# Hardware
+## Hardware
 electronics
 cad
 determine how we would want to solve and check all cases (ex obst) and figure out hardware solutions that would make it easier
@@ -18,7 +18,7 @@ add limit switches on back, and surroind wheels with chassis so bot doesnt get s
 like one billion tof front and back on all sides, do we need 45 deg ones?
 
 
-# Software
+## Software
 linetracing/ special cases
 obstacle
 victim detection
