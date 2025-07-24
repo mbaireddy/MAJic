@@ -4,10 +4,13 @@ This is the repository for team MAJic from the USA, competing in [RoboCup Junior
 
 
 # We're Team MAJic!
-team about me
+<img width="1196" height="1594" alt="image" src="https://github.com/user-attachments/assets/4dc69403-b3c1-4e71-b1d2-9941a9945f32" />
+This is our first year working together as a full team, combining our diverse experiences across RoboCup Junior divisions. Julia and Arusha previously competed in the Primary Division of Rescue Line individually when they were younger, building a strong foundation in autonomous robotics. Maya and Julia also collaborated on a project in the OnStage division as part of Team JAM Session, which earned 2nd place internationally at RoboCup 2024 in Eindhoven. This year, we’ve brought Arusha—who was previously too young to join our Open team—into the group. At the 2025 American SuperRegionals, we placed 1st in the United States and 5th overall, and we’ve made significant technical improvements since then. In 2025 we represented USA in the international competition in Salvador. We are looking forward to improving this coming year!
 
 # About the Competition
 synopsis of rules
+
+
 
 # About our project
 
