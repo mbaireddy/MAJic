@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://github.com/jccube001">
-    <img src="https://img.shields.io/badge/Contributor-jccube001-pink" alt="jccube001">
+    <img src="https://img.shields.io/badge/Contributor-juliac-001-pink" alt="juliac-001">
   </a>
 </div>
 
